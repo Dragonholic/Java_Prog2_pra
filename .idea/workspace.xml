@@ -1,23 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af45c36f-aa90-43bb-b414-39f36c7f8dc2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Pro2_prectice_workspace.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_9.22/Prog2_9.22.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_9.22/src/Prog2_202001606_고용운_실습5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_9.22_2/Prog2_9.22_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_9.22_2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_9.22_3/Prog2_9.22_3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_9.22_3/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_9.22_4/Prog2_9.22_4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_9.22_4/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_9.28/Prog2_9.28.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_9.28/src/Prog2_202001606_고용운_실습4.java" afterDir="false" />
+    <list default="true" id="af45c36f-aa90-43bb-b414-39f36c7f8dc2" name="Changes" comment="9.28 실습4">
+      <change afterPath="$PROJECT_DIR$/Prog2_9.28_2/src/Prog2_실습_예제.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +56,21 @@
       <option name="presentableId" value="Default" />
       <updated>1663741469939</updated>
     </task>
+    <task id="LOCAL-00001" summary="9.28 실습4">
+      <created>1664328016094</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664328016094</updated>
+    </task>
+    <task id="LOCAL-00002" summary="9.28 실습4">
+      <created>1664328030893</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664328030893</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,5 +83,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="9.28 실습4" />
+    <option name="LAST_COMMIT_MESSAGE" value="9.28 실습4" />
   </component>
 </project>
