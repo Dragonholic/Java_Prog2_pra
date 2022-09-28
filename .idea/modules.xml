@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java_Pro2_prectice_workspace.iml" filepath="$PROJECT_DIR$/Java_Pro2_prectice_workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prog2_9.22/Prog2_9.22.iml" filepath="$PROJECT_DIR$/Prog2_9.22/Prog2_9.22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prog2_9.22_2/Prog2_9.22_2.iml" filepath="$PROJECT_DIR$/Prog2_9.22_2/Prog2_9.22_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prog2_9.22_3/Prog2_9.22_3.iml" filepath="$PROJECT_DIR$/Prog2_9.22_3/Prog2_9.22_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prog2_9.22_4/Prog2_9.22_4.iml" filepath="$PROJECT_DIR$/Prog2_9.22_4/Prog2_9.22_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prog2_9.28/Prog2_9.28.iml" filepath="$PROJECT_DIR$/Prog2_9.28/Prog2_9.28.iml" />
+    </modules>
+  </component>
+</project>
