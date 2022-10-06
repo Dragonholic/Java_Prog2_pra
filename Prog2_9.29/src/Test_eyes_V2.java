@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class 시력검사_V2 {
+public class Test_eyes_V2 {
     public static void main(String[] args) {
         System.out.println(("보이는 글자를 공백으로 2번 입력하세요"));
 
@@ -21,6 +21,8 @@ public class 시력검사_V2 {
         boolean j = (a.equals("A") || a.equals("B") || a.equals("C")) || (b.equals("A") || b.equals("B") || b.equals("C")) ? true : false;
         boolean h = (a.equals("ㄱ") || a.equals("ㄴ") || a.equals("ㄷ")) || (b.equals("ㄱ") || b.equals("ㄴ") || b.equals("ㄷ")) ? true : false;
         boolean g = (a.equals("a") || a.equals("b") || a.equals("c")) || (b.equals("a") || b.equals("b") || b.equals("c")) ? true : false;
+
+
 
         double v = g ? S : (h ? A : (j ? B : (k ? C : N)));
 

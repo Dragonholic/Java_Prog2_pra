@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java_Pro2_prectice_workspace.iml" filepath="$PROJECT_DIR$/Java_Pro2_prectice_workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prog2_10.5/Prog2_10.5.iml" filepath="$PROJECT_DIR$/Prog2_10.5/Prog2_10.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prog2_10.6/Prog2_10.6.iml" filepath="$PROJECT_DIR$/Prog2_10.6/Prog2_10.6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prog2_10.6_2/Prog2_10.6_2.iml" filepath="$PROJECT_DIR$/Prog2_10.6_2/Prog2_10.6_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prog2_9.22/Prog2_9.22.iml" filepath="$PROJECT_DIR$/Prog2_9.22/Prog2_9.22.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prog2_9.22_2/Prog2_9.22_2.iml" filepath="$PROJECT_DIR$/Prog2_9.22_2/Prog2_9.22_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prog2_9.22_3/Prog2_9.22_3.iml" filepath="$PROJECT_DIR$/Prog2_9.22_3/Prog2_9.22_3.iml" />
@@ -11,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/Prog2_9.28_2/Prog2_9.28_2.iml" filepath="$PROJECT_DIR$/Prog2_9.28_2/Prog2_9.28_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prog2_9.28_3/Prog2_9.28_3.iml" filepath="$PROJECT_DIR$/Prog2_9.28_3/Prog2_9.28_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prog2_9.29/Prog2_9.29.iml" filepath="$PROJECT_DIR$/Prog2_9.29/Prog2_9.29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prog2_9.29_2/Prog2_9.29_2.iml" filepath="$PROJECT_DIR$/Prog2_9.29_2/Prog2_9.29_2.iml" />
     </modules>
   </component>
 </project>
