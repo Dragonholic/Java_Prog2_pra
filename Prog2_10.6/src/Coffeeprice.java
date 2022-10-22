@@ -10,7 +10,7 @@ public class Coffeeprice {
 
 
 
-        System.out.print("무슨커피 드릴까요? \n");
+        System.out.print("무슨커피 드릴까요?\n");
         String order = scanner.next();
 
         switch (order) {
