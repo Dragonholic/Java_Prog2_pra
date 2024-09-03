@@ -1,71 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af45c36f-aa90-43bb-b414-39f36c7f8dc2" name="Changes" comment="10.22 note">
-      <change afterPath="$PROJECT_DIR$/Prog2_10.19_3/Prog2_10.19_3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_10.27_1/Prog2_10.27_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_10.27_1/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_10.27_2/BookArray/BookArray.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_10.27_2/BookArray/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_10.27_2/Prog2_10.27_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_10.27_2/src/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.02_1/Prog2_11.02_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.02_1/src/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.02_1/src/BookArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.02_2/Prog2_11.02_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.02_2/src/CircleArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.03_1/Prog2_11.03_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.03_1/src/ArrayParameterEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.09_1/Prog2_11.09_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.09_1/src/StaticEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.09_2/Prog2_11.09_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.09_2/src/CalcEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.09_3/Prog2_11.09_3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.09_3/src/StaticMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.10_1/Prog2_11.10_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.10_1/src/ColorPointEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.10_2/Prog2_11.10_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.10_2/src/InheritanceEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.10_2/src/NewMyp/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.10_3/Prog2_11.10_3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.10_3/src/SuperHeroAssemble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.16_1/Prog2_11.16_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.16_1/src/UpcastingEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.16_2/Prog2_11.16_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.16_2/src/InstanceOfEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.17_1/Prog2_11.17_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.17_1/src/MethodOverridingEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.17_2/Prog2_11.17_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.17_2/src/OverridingEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.17_3/Prog2_11.17_3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.17_3/src/abstractEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.23_1/Prog2_11.23_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.23_1/src/myPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.24_1/Prog2_11.24_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.24_1/src/MonsterRaidEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.24_2/src/app/GoodCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.24_2/src/lib/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog2_11.24_2/src/mypackage/mypackageEx.java" afterDir="false" />
+    <list default="true" id="af45c36f-aa90-43bb-b414-39f36c7f8dc2" name="Changes" comment="11.24">
+      <change afterPath="$PROJECT_DIR$/Prog2_11.30_1/Prog2_11.30_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prog2_11.30_1/src/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prog2_12.01_1/Prog2_12.01_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prog2_12.01_1/src/PointEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prog2_12.01_2/Prog2_12.01_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prog2_12.01_2/src/EqualsEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prog2_12.01_3/Prog2_12.01_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prog2_12.01_3/src/WrapperEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prog2_12.07_1/Prog2_12.07_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prog2_12.07_1/src/StringEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prog2_12.07_2/Prog2_12.07_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prog2_12.07_2/src/StringEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prog2_12.07_3/Prog2_12.07_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prog2_12.07_3/src/StringEx3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prog2_9.22/Prog2_9.22.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prog2_9.22/src/Prog2_202001606_고용운_실습5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prog2_9.22_2/Prog2_9.22_2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prog2_9.22_2/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prog2_9.22_3/Prog2_9.22_3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prog2_9.22_3/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prog2_9.22_4/Prog2_9.22_4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prog2_9.22_4/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prog2_9.28/Prog2_9.28.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prog2_9.28/src/Prog2_202001606_고용운_실습4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prog2_9.28_2/Prog2_9.28_2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prog2_9.28_2/src/Prog2_실습_예제.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prog2_9.28_3/Prog2_9.28_3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prog2_9.28_3/src/Prog2_실습2_EyeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prog2_9.29/Prog2_9.29.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prog2_9.29/src/Test_eyes_V2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prog2_9.29_2/Prog2_9.29_2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prog2_9.29_2/src/replace_zero.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666434470087</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="11.24">
+      <created>1669271247894</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669271247894</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,7 +151,8 @@
     <MESSAGE value="9.29 수업중" />
     <MESSAGE value="10.06 14:26" />
     <MESSAGE value="10.22 note" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.22 note" />
+    <MESSAGE value="11.24" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.24" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
